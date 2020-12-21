@@ -1,0 +1,1 @@
+# Nurkyz-Chynybaeva.github.io
