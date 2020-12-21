@@ -80,12 +80,21 @@ color: rgba(0, 0, 0, 0.55);
   }
 .right-box-1{
   margin: 70px 70px;
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  height: 600px;
+  text-align: right;
 }
-
-  .smaller-right-box{
-     margin: px;
-    
-  }
+.p-1{
+  height: 300px;
+  
+  padding-left: 150px;
+}
+.p-2{
+  height:200px;
+  
+}
 
   .line-latest-all{
     color:rgba(0, 0, 0, 0.55) ;
@@ -109,18 +118,25 @@ color: rgba(0, 0, 0, 0.55);
   }
 
 
-  .januray{
-    width: 120px;
-  height: 40px;
-  font-size: 27px;
-  
-  
+  .january-1-st{
+  text-align: right;
+   font-size: 35px;
   color: #000000;
+  width: 200px;
+  padding-left: 67px;
   }
   .st-1{
     font-weight: bold;
   }
-  
+  .lorem{
+    color: rgba(0, 0, 0, 0.55);
+  }
+  .line-2{
+    width: 300px;
+height: 0px;
+
+border: 1px solid #E7F0F2;
+  }
   
   
 
