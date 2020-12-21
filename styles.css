@@ -102,12 +102,43 @@ color: rgba(0, 0, 0, 0.55);
 
 
 .down-box{
-  height: 30px;
+  
+  height: 40px;
   background-color: white;
   border: 1px solid rgba(0, 0, 0, 0.55);
+   display: flex;
+   flex-direction: column;
+  
+}
+.points-1{
+  width: 17px;
+  text-align: center;
+  margin: 7px auto;
+  height: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+.points-2{
+   width: 17px;
+  text-align: center;
+  margin: 7px auto;
+  display: flex;
+  justify-content: space-between;
 }
 
+.point-1{
+  
+  width: 3.5px;
+  height: 3.5px;
+  background-color: black;
+}
 
+.point-2{
+  
+  width: 3.5px;
+  height: 3.5px;
+  background-color: black;
+}
 
 
 
