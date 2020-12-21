@@ -55,18 +55,17 @@ color: rgba(0, 0, 0, 0.55);
     font-weight: 800;
   }
   .name-of-event-buy-tickets{
-    border: 1px solid;
+  
     margin-left: 90px;
     margin-top: 70px;
   }
   .buy-tickets{
-    width: 200px;
-    height: 40px;
+    width: 110px;
+    height: 30px;
     background-color: black;
     color: white;
-    font-size: 25px;
+    font-size: 15px;
     text-align: center;
-    padding-top: 15px;
     margin-top: 50px;
   }
 
@@ -80,18 +79,24 @@ color: rgba(0, 0, 0, 0.55);
   .line-latest-all{
     
    text-align: right;
-   font-size: 20px;
-    
+   font-size: 12px;
+    margin-right: 85px;
+    margin-top: 95px;
   }
-  .latest{
-    
+  .all{
+    margin: 35px 0;
   }
 
-  .line-latest-all>.line{
-    text-align: right;
-    width: 4px;
-height: 60px;
-background-color:rgba(0, 0, 0, 0.4);
+  .line{
+  
+      position: absolute;
+    width: 1px;
+    height: 80px;
+    left: 1390px;
+    top: 115px;
+    background-color:rgba(0, 0, 0, 0.4);
+    
+    
   }
 
 
