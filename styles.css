@@ -80,7 +80,6 @@ color: rgba(0, 0, 0, 0.55);
   }
 .right-box-1{
   margin: 70px 70px;
-  border: 1px solid;
   display: flex;
   flex-direction: column;
   height: 600px;
@@ -138,23 +137,59 @@ height: 0px;
 border: 1px solid #E7F0F2;
   }
   
-  .container-2{
-    width: 220px;
+  .flo{
+    margin-top:180px ;
+    margin-left: 459px;
+    display: flex;
+   justify-content: space-between;
+   width: 380px;
+   height: 100px;
+  }
+
+  .container-1{
+    width: 200px;
     height: 115px;
     background-color: black;
-    margin-top: 190px;
-    margin-left: 729px;
+  }
+ .zag{
+   display: flex;
+   flex-direction: column;
+   text-align: right;
+   margin: 15px 15px;
+   color: white;
+   
+ }
+ .gallery{
+   margin-top: 57px;
+   font-size: 11px;
+   font-weight: 500;
+ }
+ .subtaitle{
+   font-size: 8px;
+   font-weight: 300;
+ }
+.container-2{
+  width: 107px;
+  height: 115px;
 
-  }
-  .zag{
-    
-    width: 170px;
-  }
-  .gallery{
-    color: white;
-    font-size: 20px;
-  }
+  background-color: black;
+}
+.flow{
+  
+    display: flex;
+   justify-content: space-between;
+   width: 380px;
+   height: 100px;
+   margin-bottom: 24px;
+   margin-left: -74px;
+}
 
+.container-2-half{
+  width: 107px;
+  height: 115px;
+
+  background-color: black;
+}
 
 
 
@@ -171,60 +206,13 @@ border: 1px solid #E7F0F2;
 
 
 .down-box{
-  
-  height: 40px;
-  background-color: white;
-  border: 1px solid rgba(0, 0, 0, 0.55);
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  
+  width: 1400px;
+  height:40px ;
+  background-color:white;
+  border: 1px solid;
+  box-sizing: border-box;
+
 }
-.points-1{
-  width: 17px;
-  margin: 7px auto;
-  display: flex;
-  justify-content: space-between;
-}
-.points-2{
-  margin: -4px auto;
-   width: 17px;
-  
-  display: flex;
-  justify-content: space-between;
-}
-
-.point-1{
-  
-  width: 4px;
-  height: 4px;
-  background-color: black;
-}
-
-.point-2{
-  
-  width: 4px;
-  height: 4px;
-  background-color: black;
-}
-
-
-.points-3{
-  width: 17px;
- margin: 7px auto;
- display: flex;
- justify-content: space-between;
-}
-
-.point-3{
- 
- width: 4px;
- height: 4px;
- background-color: black;
-}
-
-
-
 
 
 
