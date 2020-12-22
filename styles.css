@@ -138,7 +138,22 @@ height: 0px;
 border: 1px solid #E7F0F2;
   }
   
-  
+  .container-2{
+    width: 220px;
+    height: 115px;
+    background-color: black;
+    margin-top: 190px;
+    margin-left: 729px;
+
+  }
+  .zag{
+    
+    width: 170px;
+  }
+  .gallery{
+    color: white;
+    font-size: 20px;
+  }
 
 
 
