@@ -232,6 +232,12 @@ text-align: center;
   width: 40%;
   background-color: #E7F0F2;
 }
+img{
+  padding-top: 80px;
+  padding-left: 130px;
+}
+
+
 .buttons{
   padding-top: 620px;
   padding-left: 95px;
