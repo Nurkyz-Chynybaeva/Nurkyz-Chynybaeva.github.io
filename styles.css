@@ -565,8 +565,13 @@ li{
 
 .left-box-3{
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
 
+}
+.line-7-nav{
+  margin: 0 50px;
+  display: flex;
+  justify-content: space-between;
 }
 .line-7{
   width: 5px;
