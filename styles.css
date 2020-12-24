@@ -239,35 +239,37 @@ text-align: center;
   background-color: #E7F0F2;
 }
 #model-photo{
-  padding-top: 30px;
-  padding-left: 160px;
+  padding-left: 80px;
   
 }
 
 
 .buttons{
-margin-left: 30px;
-margin-top: -137px;
+  
+margin-top: -135px;
+  margin-left: 180px;
   
 }
 .button-2{
-  width: 45px;
-  height: 55px;
+  width: 55px;
+  height: 65px;
   background-color: black;
    color: white;
    font-size: 25px;
 font-weight: 300;
-border: 1px solid;
+border: 1px solid black;
+margin-right: 8px;
 }
 
 .button-3{
-  width: 45px;
-  height: 55px;
+  width: 55px;
+  height: 65px;
   background-color: black;
    color: white;
    font-size: 25px;
 font-weight: 300;
-border: 1px solid;
+border: 1px  solid black;
+
 }
 
 
@@ -428,16 +430,146 @@ width: 130px;
   height: 950px;
 }
 
-.Freebie-Digital-Market{
-  font-size: 30px;
+.nav-1{
+  width: 1600px;
+  display: flex;
+  justify-content: space-between;
+
 }
 
 .first-nav{
-  border: 1px solid;
+  width: 50%;
+  height: 100px;
+  margin: 0 auto;
+  margin-left: 150px;
+}
+
+.freebie-digital-market{
+  font-size: 40px;
+}
+.freebie{
+  font-weight: 400;
+  color: #E7F0F2;
+}
+
+.second-nav{
+  width: 50%;
   display: flex;
+  justify-content: space-between;
+height: 80px;
+  margin-right: 80px;
+}
+
+
+
+.left-box-in-second-nav{
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  height: 70px;
+  margin-top: 20px;
+  
+}
+
+.product-search{
+margin-top: 20px;
+}
+
+.product-search .product{
+  font-size: 20px;
+color: #E7F0F2; 
+text-decoration: none;
+margin-left: 180px;
+}
+
+.search{
+  margin-left: 50px;
+margin-bottom: -13px;
+}
+.line-6{
+  margin-top: 20px;
+  margin-left: 80px;
+  width: 300px;
+  height: 0px;
+  border: 1px solid #E7F0F2;
+ 
+}
+li{
+  display: inline;
+}
+
+.right-box-in-second-nav{
+  width: 30%;
+  text-align: end;
+  margin-top: 40px;
+}
+
+
+
+
+.inside-this-box-there-are-4-boxes{
+  border: 1px solid red;
+  margin: 0 auto;
+  width: 1310px;
 
 }
-.first-ul{
+.inside-this-box-there-are-3-boxes{
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 110px;
+  border: 1px solid blue;
+
+
+}
+.left-box-3{
+  width: 22%;
+  border: 1px solid lime;
+
+}
+
+.middle-box-3{
+  width: 66%;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid blueviolet;
+}
+.blue-containers{
+  margin:20px 0;
   display: flex;
   justify-content: space-between;
 }
+.taitle-here{
+  font-size: 17px;
+}
+
+
+
+
+.taitle-here-gategory{
+  background-color: rgba(231, 240, 242, 0.3);
+  width: 250px;
+  height: 160px;
+}
+
+
+
+
+
+.right-box-3{
+  width: 22%;
+
+
+
+  border: 1px solid lime;
+}
+
+
+
+
+
+
+
+
+
+
+
