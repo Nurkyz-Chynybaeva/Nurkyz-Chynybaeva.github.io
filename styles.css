@@ -538,21 +538,41 @@ li{
   display: flex;
   justify-content: space-between;
 }
-.taitle-here{
-  font-size: 17px;
-}
 
 
 
-
-.taitle-here-gategory{
+.blue-container{
   background-color: rgba(231, 240, 242, 0.3);
   width: 250px;
   height: 160px;
+  line-height: 0.3px;
+  text-align: start;
+}
+.taitle-here-gategory{
+ margin: 20px 20px;
+ border: 1px solid;
+ margin-top: 75px;
+}
+
+.taitle-here{
+  font-size: 18px;
+  font-weight: 750;
+}
+.gategory{
+  font-size: 13px;
 }
 
 
+.left-box-3{
+  display: flex;
+  justify-content: space-between;
 
+}
+.line-7{
+  width: 5px;
+  height: 200px;
+  border: 1px solid #E7F0F2;
+}
 
 
 .right-box-3{
