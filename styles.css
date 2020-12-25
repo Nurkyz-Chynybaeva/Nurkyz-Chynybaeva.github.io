@@ -1,22 +1,15 @@
 body{
   margin: 0;
   box-sizing: border-box;
-  
 }
 header{
   display: flex;
   flex-direction: column;
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
- 
+  
+    width: 1500px;
+    margin: 0;
 }
-.biggest-box-1{
-  margin: 0 auto;
-}
-.event{
-color: rgba(0, 0, 0, 0.55);
-font-size: 20px;
-}
-
 
 .main-box-1{
   display: flex;
@@ -25,7 +18,7 @@ font-size: 20px;
 .top-box-1{
   display: flex;
   justify-content: space-between;
-  width: 1600PX;
+  width: 1500px;
   height: 950px;
 
 }
@@ -139,7 +132,7 @@ border: 1px solid #E7F0F2;
 
 .black-containers{
   position: relative;
-  left: 430px;
+  left: 300px;
   top: 88px;
   display: flex;
   justify-content: space-between;
@@ -176,24 +169,6 @@ margin-top: -15px;
   font-weight: 300;
 }
 
-.down-box{
-  width: 1600px;
-  height:55px ;
-  background-color:white;
-   border-top: 0.5px solid #C4C4C4;
-text-align: center;
-}
-.points{
-  margin: 13px auto;
-}
-
-.product{
-  color: rgba(0, 0, 0, 0.55);
-  font-size: 20px;
-}
-.biggest-box-2{
-   margin: 0 auto;
-}
 .main-box-2{
   display: flex;
   flex-direction: column;
@@ -201,7 +176,7 @@ text-align: center;
 .top-box-2{
   display: flex;
   justify-content: space-between;
-  width: 1600px;
+  width: 1500px;
   height: 900px;
 }
 
@@ -381,12 +356,12 @@ width: 130px;
 }
 
 .top-box-3{
-  width: 1600PX;
+  width: 1500PX;
   height: 950px;
 }
 
 .nav-1{
-  width: 1600px;
+  width: 1500px;
   display: flex;
   justify-content: space-between;
 }
@@ -411,18 +386,20 @@ width: 130px;
   display: flex;
   justify-content: space-between;
   height: 80px;
-  margin-right: 80px;
+  
 }
 .left-box-in-second-nav{
-  width: 70%;
+  
   display: flex;
   flex-direction: column;
   height: 70px;
   margin-top: 20px;
+  
 }
 
 .product-search{
 margin-top: 20px;
+
 }
 
 .product-search .product{
@@ -434,7 +411,7 @@ margin-left: 180px;
 
 .search{
   margin-left: 50px;
-margin-bottom: -13px;
+margin-bottom: px;
 }
 .line-6{
   margin-top: 20px;
@@ -526,6 +503,7 @@ li{
 .nav-2{
   width: 400px;
   height: 300px;
+  
 }
 
 .nav-2 ul{ 
