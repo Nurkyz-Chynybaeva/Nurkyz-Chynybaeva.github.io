@@ -532,6 +532,14 @@ li{
   font-weight: 600;
 }
 
+.right-box-3{
+  width: 22%;
+display: flex;
+flex-direction: column;
+  font-size: 15px;
+  text-decoration: none;
+  color: black;
+}
 
 
 
