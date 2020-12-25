@@ -494,4 +494,10 @@ li{
   display: flex;
   justify-content: space-between;
   height: 300px;
+}
 
+.line-7{
+  height: 250px;
+  border: 1px solid #E7F0F2;
+  margin-top: 15px;
+}
