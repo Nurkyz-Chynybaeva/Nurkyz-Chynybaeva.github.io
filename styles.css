@@ -481,4 +481,8 @@ li{
   font-size: 13px;
 }
 
+.left-box-3{
+  display: flex;
+  flex-direction: column;
+}
 
