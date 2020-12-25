@@ -639,33 +639,3 @@ padding-top: -50px;
 }
 
 
-
-@media (max-width:1200px){
-  .black-containers{
-    flex-wrap: wrap;
-     flex-direction: column;
-     flex-shrink: 0;
-  }
-  .black-container{
-    margin: 50px 50px;
-    right: 60px;
-    bottom: 600px;
-  }
-
-.black-container-1{
-  margin: 50px 50px;
-  flex: 1 2 0%;
-}
-
-
-
-
-
-
-}
-
-
-
-
-
-
