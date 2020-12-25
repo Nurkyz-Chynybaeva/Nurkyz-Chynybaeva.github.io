@@ -486,3 +486,12 @@ li{
   flex-direction: column;
 }
 
+.empty-container{
+  height: 370px;
+}
+.line-7-nav{
+  width: 290px;
+  display: flex;
+  justify-content: space-between;
+  height: 300px;
+
