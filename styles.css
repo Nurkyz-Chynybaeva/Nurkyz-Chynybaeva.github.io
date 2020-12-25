@@ -545,6 +545,12 @@ flex-direction: column;
   margin-right: 40px;
 }
 
+.all-filter-line{
+  height: 300px;
+  width:90%;
+ display: flex;
+  justify-content: space-between;
+}
 
 
 
