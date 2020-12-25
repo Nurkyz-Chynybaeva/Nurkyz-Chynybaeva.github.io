@@ -456,3 +456,18 @@ li{
   display: flex;
   justify-content: space-between;
 }
+
+
+.blue-container{
+  background-color: rgba(231, 240, 242, 0.3);
+  width: 250px;
+  height: 160px;
+  line-height: 0.3px;
+  text-align: start;
+  margin: 0 20px;
+}
+
+
+
+
+
