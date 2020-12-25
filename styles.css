@@ -588,12 +588,18 @@ padding-top: -50px;
 
 
 .line-9{
- 
   height: 260px;
   border: 1px solid rgba(231, 240, 242, 0.3);
   margin-left: -15px;
 }
 
+.reference-number{
+  font-size: 30px;
+  color: rgba(19, 24, 26, 0.3);
+  font-weight: 700;
+  text-decoration: none;
+  margin: 0 10px;
+}
 
 
 
