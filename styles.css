@@ -430,9 +430,14 @@ li{
 .inside-this-box-there-are-4-boxes{
   margin: 0 auto;
   width: 1310px;
-
 }
 
 
+.inside-this-box-there-are-3-boxes{
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 110px;
+
+}
 
 
