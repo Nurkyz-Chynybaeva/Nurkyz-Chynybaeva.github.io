@@ -638,20 +638,18 @@ padding-top: -50px;
   border: 1px solid rgba(231, 240, 242, 0.3);
 }
 
-@media (max-width:1200px){
-  .name-of-event-buy-tickets{
-   
-  }
-}
 
 
 @media (max-width:1200px){
   .black-containers{
     flex-wrap: wrap;
-    flex-direction: column;
+     flex-direction: column;
+     flex-shrink: 0;
   }
   .black-container{
     margin: 50px 50px;
+    right: 60px;
+    bottom: 600px;
   }
 
 .black-container-1{
