@@ -527,7 +527,10 @@ li{
   color: black;
   font-weight: 550;
 }
-
+.featured{
+  font-size: 20px;
+  font-weight: 600;
+}
 
 
 
