@@ -443,4 +443,8 @@ li{
   width: 22%;
 }
 
-
+.middle-box-3{
+  width: 66%;
+  display: flex;
+  flex-direction: column;
+}
