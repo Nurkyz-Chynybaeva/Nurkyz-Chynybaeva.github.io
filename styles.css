@@ -448,3 +448,11 @@ li{
   display: flex;
   flex-direction: column;
 }
+
+
+.blue-containers{
+  margin-left: -40px;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
