@@ -153,6 +153,12 @@ border: 1px solid #E7F0F2;
   width: 315px;
   height: 167px;
 }
+.black-container-1{
+  position: relative;
+  background-color: black;
+  width: 315px;
+  height: 167px;
+}
 .gallery-subtaitle{
   margin-top: 115px;
   margin-right: 20px;
@@ -175,7 +181,7 @@ margin-top: -15px;
   width: 1600px;
   height:55px ;
   background-color:white;
-   border: 0.5px solid #C4C4C4;
+   border-top: 0.5px solid #C4C4C4;
 text-align: center;
 }
 .points{
@@ -631,3 +637,37 @@ padding-top: -50px;
   width: 460px;
   border: 1px solid rgba(231, 240, 242, 0.3);
 }
+
+@media (max-width:1200px){
+  .name-of-event-buy-tickets{
+   
+  }
+}
+
+
+@media (max-width:1200px){
+  .black-containers{
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  .black-container{
+    margin: 50px 50px;
+  }
+
+.black-container-1{
+  margin: 50px 50px;
+  flex: 1 2 0%;
+}
+
+
+
+
+
+
+}
+
+
+
+
+
+
