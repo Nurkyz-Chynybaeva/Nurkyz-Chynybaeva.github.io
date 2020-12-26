@@ -136,7 +136,7 @@ border: 1px solid #E7F0F2;
 .black-containers{
   position: relative;
   left: 370px;
-  top: 88px;
+  top: 60px;
   display: flex;
   justify-content: space-between;
   width: 1050px;
@@ -148,12 +148,7 @@ border: 1px solid #E7F0F2;
   width: 315px;
   height: 167px;
 }
-.black-container-1{
-  position: relative;
-  background-color: black;
-  width: 315px;
-  height: 167px;
-}
+
 .gallery-subtaitle{
   margin-top: 115px;
   margin-right: 20px;
@@ -286,7 +281,7 @@ color: rgba(0, 0, 0, 0.3);
   border: 1px solid white;
   font-size: 30px;
   font-weight: 700;
-  color: black;
+  color: rgba(0, 0, 0, 0.85);;
 margin-top: 50px;
 }
 .add-to-cart{
@@ -572,7 +567,7 @@ padding-left: 150px;
   color: black;
   text-decoration: none;
   font-weight: 700;
-  margin-right: 30px;
+  margin-right: 41px;
 }
 
 .filter-2{
@@ -580,13 +575,13 @@ padding-left: 150px;
   text-decoration: none;
   font-weight: 600;
   color: black;
-  margin-right: 30px;
+  margin-right: 42px;
 }
 
 .all-1{
   font-size: 20px;
   font-weight: 600;
-  margin-left: 185px;
+  margin-left: 174px;
 }
 
 .bottom-links{
@@ -600,6 +595,7 @@ padding-top: -50px;
   height: 260px;
   border: 1px solid rgba(231, 240, 242, 0.3);
   margin-top: 30px;
+  margin-left: -30px;
 }
 
 .reference-number{
