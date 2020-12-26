@@ -282,10 +282,14 @@ color: rgba(0, 0, 0, 0.3);
   margin-top: 80px;
 }
 .add-to-cart{
-width: 130px;
-  height: 60px;
+width: 185px;
+  height: 65px;
   background-color: black;
+  margin-top: 73px;
+}
 
+.add-to{
+  padding-top: 18px;
 }
 .add{
   text-decoration: none;
