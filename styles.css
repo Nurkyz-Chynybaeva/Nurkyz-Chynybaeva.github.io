@@ -42,13 +42,19 @@ header{
     font-weight: 800;
   }
   .buy-tickets{
-    width: 150px;
-    height: 50px;
+    width: 200px;
+    height:65px;
     background-color: black;
-    color: white;
-    font-size: 20px;
-    text-align: center;
+    
   }
+  .buy-tick{
+  padding-top: 15px;
+  }
+.buy{
+  color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
 
   .right-box-1{
     width: 40%;
@@ -275,18 +281,20 @@ color: rgba(0, 0, 0, 0.3);
   color: black;
   margin-top: 80px;
 }
-
-
 .add-to-cart{
-  background-color: black;
-  text-align: center;
-
-  width: 175px;
+width: 130px;
   height: 60px;
+  background-color: black;
+
+}
+.add{
+  text-decoration: none;
   color: white;
   font-size: 17px;
-  margin-top:77px ;
+  
 }
+
+
 
 
 .right-box-in-biggest-right-box{
