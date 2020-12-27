@@ -2,7 +2,13 @@ body{
   margin: 0;
   box-sizing: border-box;
 }
+main{
+  display: flex;
+  flex-direction: column;
+  
+}
 header{
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
@@ -349,7 +355,7 @@ width: 130px;
   width: 150px;
   font-size: 20px;
   color: rgba(0, 0, 0, 0.55);
-  margin-left: -30px;
+
 }
 
 
@@ -622,28 +628,192 @@ padding-top: -50px;
 }
 
 
-@media screen and (max-width:1500px){
- 
+@media screen and (max-width:1470px){
+
+  main{
+    max-width: 1300px;
+    border: 1px solid red;
+  }
+
+  .top-box-1{
+    display: flex;
+    max-width: 1300px;
+    border: 1px solid blue;
+  }
+  .right-box-1{
+    width: 48%;
+  }
+  .left-box-1{
+    width: 52%;
+  }
+.black-containers{
+  position: relative;
+  left: 200px;
+}
+.january-1-st-line-lorem{
+  width: 260px;
+}
+.section-2{
+  display: flex;
+  max-width: 1300px;
+  
+}
+
+.basket-go-back-line{
+  width: 130px;
+    margin-left: -150px;
+  }
+.mens-100-cotton{
+  margin-left: -160px;
+}
+.black-containers{
+  position: relative;
+  width: 1000px;
+}
+
+
 }
    
 
 
-@media screen and (max-width:1400px){
- 
+@media screen and (max-width:1250px){
+ .top-box-1{
+   border: 1px solid rgb(43, 226, 67);
+   max-width: 1200px;
+ }
+.left-box-1{
+  width: 600px;
 }
 
-@media screen and (max-width:1300px){
-  
+.name-of-event{
+  font-size: 80px;
+  }
+  .buy-tickets{
+     width: 150px;
+     height: 50px;
+  }
+ .buy{
+   font-size: 15px;
+  margin-left: -7px;
+ }
+.right-box-1{
+  width: 600px;
+  border: 1px solid;
+}
+.january-1-st-line-lorem{
+  position: relative;
+  bottom: 90px;
+  right: 60px;
+}
+.latest-all-line{
+  position: relative;
+  right: 80px;
+}
+.black-containers{
+  position: relative;
+  left: 70px;
+}
+
+
+
+
+}
+
+@media screen and (max-width:1110px){
+  .top-box-1{
+    border: 1px solid purple;
+    width: 1110px;
+
+  }
   .left-box-1{
-    flex-wrap: wrap;
+    width: 50%;
+  }
+  .right-box-1{
+    width: 50%;
+  }
+   .latest-all-line{
+     position: relative;
+     bottom: 70px;
+     right: 200px;
+   }
+.january-1-st-line-lorem{
+  position: relative;
+  right: 190px;
+  bottom: 150px;
+}
+
+.black-containers{
+  position: relative;
+  width: 950px;
+  left: 5px;
+}
+
+  
+}
+
+@media screen and (max-width:1000px){
+  .top-box-1{
+    border: 2px solid firebrick;
+    width: 1000px;
+  }
+  .right-box-1{
+    width: 100%;
+  }
+  
+.latest-all-line{
+  color: white;
+  
+}
+
+.january-1-st-line-lorem{
+  position: relative;
+  right: 250px;
+bottom: 330px;
+}
+.line{
+  background-color: white;
+}
+.january-1-st{
+  position: relative;
+  
+  font-size: 50px;
+}
+.name-of-event{
+  position: relative;
+  bottom: 80px;
+  font-size: 80px;
+}
+.buy-tickets{
+  position: relative;
+  bottom: 110px;
+}
+
+
+
+
+
+
+
+  .black-containers{
     display: flex;
     flex-direction: column;
+    margin-left: 90px;
+    margin-top: -220px;
   }
+  .black-container{
+    margin: 10px 0;
+  }
+
+
+
+
 }
 
-
-
-
+@media screen and (max-width:800px){
+  .top-box-1{
+    border: 9px solid darkblue;
+  }
+}
 
 
 
