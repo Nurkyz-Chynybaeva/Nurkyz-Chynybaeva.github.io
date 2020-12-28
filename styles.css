@@ -676,8 +676,33 @@ padding-top: -50px;
   width: 1000px;
 }
 
-.section-2{
-  border: 1px solid blue;
+.nav-2{
+  position: relative;
+  right: 40px;
+}
+.middle-box-3{
+  position: relative;
+  right: 100px;
+}
+.all-1{
+  position: relative;
+  right: 200px;
+}
+.all-filter{
+  position: relative;
+  right: 200px;
+}
+.nav-1{
+ width: 1250px;
+ 
+}
+.line-9{
+  position: relative;
+  right: 200px;
+}
+.line-7{
+  position: relative;
+  right: 50px;
 }
 
 
@@ -701,10 +726,11 @@ padding-top: -50px;
 
 @media screen and (max-width:1250px){
  .top-box-1{
-   border: 1px solid rgb(43, 226, 67);
    max-width: 1200px;
    height: 850px;
  }
+ 
+
 .left-box-1{
   width: 600px;
 }
@@ -722,7 +748,6 @@ padding-top: -50px;
  }
 .right-box-1{
   width: 600px;
-  border: 1px solid;
 }
 .january-1-st-line-lorem{
   position: relative;
@@ -773,7 +798,6 @@ padding-top: -50px;
 .section-2{
   width: 1100px;
   height: 695px;
-  border: 5px solid purple;
 }
 
 .left-box-2{
@@ -873,7 +897,6 @@ bottom: 330px;
 }
 
 .black-containers{
- border: 1px solid;
  width: 700px;
  top: -150px;
  left: 60px;
@@ -884,7 +907,6 @@ bottom: 330px;
 }
 
 .section-2{
-  border: 9px solid firebrick;
   width: 1000px;
 }
 .left-box-2{
@@ -948,23 +970,103 @@ left: 325px;
 
 @media screen and (max-width:800px){
   .top-box-1{
-    border: 9px solid darkblue;
+    height: 430px;
+  }
+
+  .left-box-1{
+    width: 650px;
+  }
+  .left-box-2{
+    width: 650px;
   }
 
   .black-containers{
+    position: relative;
+    top: 90px;
+    
     display: flex;
     flex-direction: column;
   }
 .black-container{
   margin: 10px 0;
-  width: ;
+  
+}
+.january-1-st-line-lorem{
+  position: relative;
+  right: 850px;
+  top:1px;
+}
+#model-photo{
+  position: relative;
+  width: 400px;
+  height: 500px;
+  top: 205px;
+  left: 170px;
+}
+.right-box-2{
+  position: relative;
+  
+}
+.right-box-2{
+  height: 700px;
+  position: relative;
+  top: 700px;
+  right:670px;
+}
+
+.section-3{
+  position: relative;
+  top: 600px;
+}
+.go--back{
+  color: white;
+}
+.item-type-name{
+  position: relative;
+  left: 260px;
+  bottom: 40px;
+}
+.numbers{
+  position: relative;
+  left: 80px;
+ top: -150px;
+
+}
+.paragraph{
+  position: relative;
+  left: 60px;
+  width: 500px;
+  text-align: center;
+}
+.size{
+  position: relative;
+  left: 380px;
+  bottom: 500px;
+}
+.add-to-cart{
+  position: relative;
+  left: 380px;
+  bottom: 500px;
+}
+.buttons{
+  background-color: white;
+  position: relative;
+  top: 800px;
+}
+.mens-100-cotton{color: white;}
+
+
+
+
+
+
+
 }
 
 
 
 
 
-}
   
 
 
