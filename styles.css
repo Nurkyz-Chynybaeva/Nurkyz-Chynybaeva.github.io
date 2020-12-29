@@ -95,20 +95,28 @@ justify-content: space-between;
   .latest-all{
     display: flex;
     flex-direction: column;
-    margin: 10px 0;
+    margin: 10px 10px;
+     
   }
   .latest{
     font-size: 17px;
+    text-decoration: none;
+    color:  rgba(0, 0, 0, 0.4);
   }
+.all-2{
+  margin-top: 36px;
+}
+
   .all{
-    margin-top: 37px;
     font-size: 17px;
+    text-decoration: none;
+    color:  rgba(0, 0, 0, 0.4);
   }
 
   .line{
     width: 1px;
     height: 100px;
-    background-color:rgba(0, 0, 0, 0.4);
+    background-color: #E7F0F2;
   }
   .january-1-st-line-lorem{
     height: 300px;
@@ -1103,6 +1111,13 @@ top: 240px;
   position: relative;
   left: 1300px;
 }
+.all{
+  color: white;
+}
+.latest{
+  color: white;
+}
+
 .line-5{
   position: relative;
   left: 500px;
