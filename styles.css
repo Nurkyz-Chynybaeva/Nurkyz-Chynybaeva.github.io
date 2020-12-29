@@ -764,10 +764,41 @@ padding-top: -50px;
   left: 70px;
 }
 
-
-
+.blue-containers{
+  position: relative;
+  right: 130px;
+  bottom: 20px;
+  
+}
+.nav-1{
+  position: relative;
+  right: 00px;
+  width: 900px;
 }
 
+.freebie-digital-market{
+  position: relative;
+  bottom: 50px;
+}
+
+.nav-2{
+  position: relative;
+  top: 290px;
+  left: 220px;
+}
+
+.bottom-links{
+  position: relative;
+  top: 270px;
+  right: 235px;
+}
+.right-box-3{
+  position: relative;
+  top: 630px;
+  right: 490px;
+}
+
+}
 @media screen and (max-width:1110px){
   .top-box-1{
     width: 1110px;
@@ -851,21 +882,26 @@ padding-top: -50px;
 .basket-go-back-line{
    position: relative;
   right: 430px;
-  
   bottom: 50px;
 }
 
-
-
-
-
-
+.line-9{
+  position: relative;
+  top: 630px;
+  right: 680px;
+}
+.line-7{
+  position: relative;
+  top: 290px;
+  left: 209px;
+}
   
 }
 
+
+
 @media screen and (max-width:1000px){
   .top-box-1{
-    
     width: 1000px;
     height: 600px;
   }
@@ -955,23 +991,67 @@ left: 325px;
   font-size: 15px;
 }
 
+.middle-box-3{
+  position: relative;
+  right: 150px;
+  width: 700px;
+}
 
 
+.nav-1{
+  position: relative;
+  right: 100px;
+  width: 900px;
+}
 
+.freebie-digital-market{
+  position: relative;
+  left: 50px;
+}
+.nav-2{
+  position: relative;
+  left: 120px;
+}
 
+.bottom-links{
+  position: relative;
+  right: 360px;
+top: 240px;
+}
+.line-10{
+  position: relative;
+  left: 12px;
+}
 
+.right-box-3{
+  position: relative;
+  top: 635px;
+  right: 570px;
+}
 
+.second-nav{
+  position: relative;
+  right: 60px;
+}
 
-
-
-
-
+.blue-containers{
+  position: relative;
+  right: 170px;
+}
+.line-7{
+  position: relative;
+  left: 110px;
+}
+.line-9{
+  position: relative;
+  right: 800px;
+}
 
 }
 
 @media screen and (max-width:800px){
   .top-box-1{
-    height: 430px;
+    height: 450px;
   }
 
   .left-box-1{
@@ -997,19 +1077,17 @@ left: 325px;
   right: 850px;
   top:1px;
 }
+
 #model-photo{
   position: relative;
-  width: 400px;
-  height: 500px;
-  top: 205px;
-  left: 170px;
+  width: 350px;
+  height: 450px;
+  top: 250px;
+  left: 130px;
 }
+
 .right-box-2{
-  position: relative;
-  
-}
-.right-box-2{
-  height: 700px;
+  height: 750px;
   position: relative;
   top: 700px;
   right:670px;
@@ -1017,37 +1095,43 @@ left: 325px;
 
 .section-3{
   position: relative;
-  top: 600px;
+  top: 350px;
 }
 .go--back{
   color: white;
+  position: relative;
+  left: 1300px;
+}
+.line-5{
+  position: relative;
+  left: 500px;
 }
 .item-type-name{
   position: relative;
-  left: 260px;
-  bottom: 40px;
+  left: 240px;
+  top: 40px;
 }
 .numbers{
   position: relative;
-  left: 80px;
- top: -150px;
+  left: 340px;
+ top: -140px;
 
 }
 .paragraph{
   position: relative;
-  left: 60px;
-  width: 500px;
+  left: 40px;
+  width: 400px;
   text-align: center;
 }
 .size{
   position: relative;
-  left: 380px;
+  left: 290px;
   bottom: 500px;
 }
 .add-to-cart{
   position: relative;
-  left: 380px;
-  bottom: 500px;
+  left: 40px;
+  bottom:610px;
 }
 .buttons{
   background-color: white;
@@ -1055,6 +1139,89 @@ left: 325px;
   top: 800px;
 }
 .mens-100-cotton{color: white;}
+
+
+.second-nav{
+  position: relative;
+  right: 400px;
+  top: 130px;
+}
+.blue-containers{
+  position: relative;
+  right: 220px;
+  width: 500px;
+  top: 50px;
+}
+.blue-container{
+  width: 120px;
+  height: 100px;
+}
+.taitle-here-gategory{
+  position: relative;
+  bottom: 40px;
+  right: 10px;
+}
+
+.taitle-here{
+  font-size: 10px;
+}
+.gategory{
+  font-size: 7px;
+}
+.nav-2{
+  position: relative;
+left: 17px;
+top: 165px;
+}
+.featured{
+  font-size: 13px;
+}
+.gategory-1{
+  font-size: 10px;
+}
+.gategory-2{
+font-size: 10px;
+}
+.right-box-3{
+  position: relative;
+  right: 800px;
+  top: 510px;
+}
+.all-1{
+  font-size: 13px;
+}
+.filter-1{
+  font-size: 10px;
+}
+.filter-2{
+  font-size: 10px;
+}
+.bottom-links{
+  position: relative;
+  right: 520px;
+  top: 130px;
+}
+.line-10{
+  width: 330px;
+}
+.reference-number{
+  font-size: 17px;
+}
+.reference-number-1{
+  font-size: 17px;
+}
+.line-9{
+  position: relative;
+  right: 1040px;
+  height: 240px;
+  top: 520px;
+}
+.line-7{
+  position: relative;
+  top: 165px;
+  height: 240px;
+  left: 20px;
+}
 
 
 }
