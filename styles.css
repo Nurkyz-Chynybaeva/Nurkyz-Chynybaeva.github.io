@@ -1059,12 +1059,13 @@ top: 240px;
   }
   .left-box-2{
     width: 650px;
+    
   }
 
   .black-containers{
     position: relative;
     top: 90px;
-    
+    left: 12px;
     display: flex;
     flex-direction: column;
   }
@@ -1083,7 +1084,7 @@ top: 240px;
   width: 350px;
   height: 450px;
   top: 250px;
-  left: 130px;
+  left: 100px;
 }
 
 .right-box-2{
@@ -1108,29 +1109,29 @@ top: 240px;
 }
 .item-type-name{
   position: relative;
-  left: 240px;
-  top: 40px;
+  left: 200px;
+  top: 60px;
 }
 .numbers{
   position: relative;
   left: 340px;
- top: -140px;
+ top: -130px;
 
 }
 .paragraph{
   position: relative;
-  left: 40px;
+  left: 20px;
   width: 400px;
   text-align: center;
 }
 .size{
   position: relative;
-  left: 290px;
+  left: 250px;
   bottom: 500px;
 }
 .add-to-cart{
   position: relative;
-  left: 40px;
+  left: 10px;
   bottom:610px;
 }
 .buttons{
