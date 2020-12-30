@@ -1,4 +1,3 @@
-@import url(//db.onlinewebfonts.com/c/116af611cbcd9e4bada60b4e700430c1?family=Avenir+Light);
 
 body{
   margin: 0;
@@ -13,8 +12,8 @@ header{
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-    font-family: "Avenir Light";
   font-style: normal;
+  font-family: "Segoe UI","Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
 }
 
 .main-box-1{
