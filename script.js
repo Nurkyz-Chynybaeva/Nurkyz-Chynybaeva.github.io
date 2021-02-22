@@ -19,7 +19,7 @@ spanName.innerText = inputName.value + ": ";
 spanMessage.innerText = inputMassage.value;
 spanName.style.color = inputColor.value;
 
-fetch(' https://live-chat-40620-default-rtdb.firebaseio.com/', {
+fetch('https://for-tasks-default-rtdb.firebaseio.com/', {
   method:"POST" ,
   body: JSON.stringify({
     name: inputName.value,
