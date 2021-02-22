@@ -1,8 +1,8 @@
 let button = document.querySelector('button');
 
-let inputName = document.querySelector('#name')
-let inputMassage = document.querySelector('#massage')
-let inputColor = document.querySelector('#color')
+let inputName = document.querySelector('.name')
+let inputMassage = document.querySelector('.text')
+let inputColor = document.querySelector('.color')
 
 
 
@@ -25,7 +25,7 @@ spanName.style.color = inputColor.value;
 
 
 
-fetch(' https://for-tasks-default-rtdb.firebaseio.com/', {
+fetch(' https://live-chat-40620-default-rtdb.firebaseio.com/', {
   method:"POST" ,
   body: JSON.stringify({
     name: inputName.value,
